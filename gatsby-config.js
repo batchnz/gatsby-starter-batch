@@ -30,7 +30,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/batch-icon.svg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-postcss`,
@@ -41,7 +41,7 @@ module.exports = {
         headers: {
           "/*": [
             "Content-Security-Policy: frame-ancestors 'self' https://*.batch.dev/",
-            "X-Frame-Options: ALLOW-FROM https://frankie.batch.dev/",
+            "X-Frame-Options: ALLOW-FROM https://*.batch.dev/",
           ],
         },
       },
