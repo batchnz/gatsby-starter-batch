@@ -12,7 +12,7 @@ Kick off your project with this default boilerplate. This starter ships with the
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-default-starter https://github.com/batchnz/gatsby-starter-batch
     ```
 
 1.  **Start developing.**
