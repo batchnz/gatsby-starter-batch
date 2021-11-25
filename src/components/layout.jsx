@@ -5,6 +5,29 @@
  * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
 
+// TODO:
+// - PLUGINS
+// -- gatsby-plugin-robots-txt
+// -- gatsby-plugin-sitemap
+// -- gatsby-plugin-canonical-urls
+// - SEO
+// -- add default share image
+// -- og:image and twitter:image
+// -- add seo prop to layout
+// -- improve conditionals/fallbacks for seo component
+// - OTHER
+// -- add site config folder and site.js file to store meta
+// -- basic svg circle favicon
+// -- use .jsx files
+// -- add default folder structure
+// -- check with team about folder and filename preferences (kabab-case folders)
+// -- index.js
+// -- clean templates
+// -- .env files
+// -- compontent resolvers
+// -- gatsby 4 (check if working with craft source)
+// -- node version file
+
 import * as React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"

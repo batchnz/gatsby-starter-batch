@@ -1,0 +1,1542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"computed"
+			],
+			[
+				"e",
+				"empathy_trained"
+			],
+			[
+				"cm",
+				"computed"
+			],
+			[
+				"Car",
+				"CardProfileFull"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"isSe",
+				"isServiceRequest"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"SET_SE",
+				"SET_SERVICE_AGREEMENTS"
+			],
+			[
+				"ser",
+				"serviceAgreements"
+			],
+			[
+				"s",
+				"services"
+			],
+			[
+				"A",
+				"Array"
+			],
+			[
+				"car",
+				"CardProfileFull"
+			],
+			[
+				"CardPro",
+				"CardProfileFull"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"comp",
+				"computed"
+			],
+			[
+				"isC",
+				"isCareProfessional"
+			],
+			[
+				"space",
+				"space-x-1"
+			],
+			[
+				"in",
+				"includes"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ac",
+				"activeState"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"det",
+				"details"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"sel",
+				"selectedImage"
+			],
+			[
+				"leading",
+				"leading-snug"
+			],
+			[
+				"IconCh",
+				"IconChevronRight"
+			],
+			[
+				"Butt",
+				"ButtonStandard"
+			],
+			[
+				"but",
+				"ButtonStandard"
+			],
+			[
+				"jus",
+				"justify-between"
+			],
+			[
+				"modal",
+				"modalData"
+			],
+			[
+				"Modal",
+				"ModalBookingDetails"
+			],
+			[
+				"ModalBo",
+				"ModalBookingDetails"
+			],
+			[
+				"is",
+				"isCareProfessional"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"hand",
+				"handleNext"
+			],
+			[
+				"a",
+				"await"
+			],
+			[
+				"spa",
+				"space-y-2"
+			],
+			[
+				"clo",
+				"clock_in"
+			],
+			[
+				"Label",
+				"LabelForm"
+			],
+			[
+				"Input",
+				"InputStandard"
+			],
+			[
+				"File",
+				"FileUpload"
+			],
+			[
+				"text-",
+				"text-blue-500"
+			],
+			[
+				"cl",
+				"clock_out"
+			],
+			[
+				"clock",
+				"clock_in"
+			],
+			[
+				"Shi",
+				"Shifts"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-semibold"
+			],
+			[
+				"But",
+				"ButtonInfo"
+			],
+			[
+				"I",
+				"IconCalendarAccepted"
+			],
+			[
+				"text",
+				"text-blue-500"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"av",
+				"availability"
+			],
+			[
+				"jiu",
+				"justify-end"
+			],
+			[
+				"spac",
+				"space-y-6"
+			],
+			[
+				"B",
+				"ButtonStandard"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ho",
+				"hours"
+			],
+			[
+				"Butotn",
+				"ButtonGhost"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fon-",
+				"font-semibold"
+			],
+			[
+				"c",
+				"customData"
+			],
+			[
+				"cu",
+				"customData"
+			],
+			[
+				"book",
+				"bookings"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"Buton",
+				"ButtonGhost"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"px-",
+				"px-ogs"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"Calen",
+				"IconCalendarAccepted"
+			],
+			[
+				"bookin",
+				"bookingData"
+			],
+			[
+				"Booking",
+				"BookingsDetail"
+			],
+			[
+				"ca",
+				"care_professional"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bg",
+				"bg-blue-200"
+			],
+			[
+				"ui",
+				"uiComputed"
+			],
+			[
+				"dec",
+				"decline"
+			],
+			[
+				"rounded",
+				"rounded-full"
+			],
+			[
+				"R",
+				"Ron"
+			],
+			[
+				"reas",
+				"reason"
+			],
+			[
+				"j",
+				"justify-between"
+			],
+			[
+				"da",
+				"date_time"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"just",
+				"justify-end"
+			],
+			[
+				"border",
+				"border-blue-400"
+			],
+			[
+				"grid-",
+				"grid-cols-2"
+			],
+			[
+				"we",
+				"weekly"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"bg-",
+				"bg-blue-100"
+			],
+			[
+				"trans",
+				"transition-colors"
+			],
+			[
+				"bor",
+				"border-grey-100"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"boo",
+				"bookings"
+			],
+			[
+				"start_",
+				"start_time"
+			],
+			[
+				"Mod",
+				"ModalBookingDates"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"has",
+				"hasDateConflict"
+			],
+			[
+				"Bu",
+				"ButtonGhost"
+			],
+			[
+				"handleCl",
+				"handleCloseAndCancel"
+			],
+			[
+				"moda",
+				"modal-rates"
+			],
+			[
+				"borer-",
+				"border-grey-100"
+			],
+			[
+				"ise",
+				"isEditing"
+			],
+			[
+				"acc",
+				"accepted"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Inpu",
+				"InputTextarea"
+			],
+			[
+				"AC",
+				"ActionsPending"
+			],
+			[
+				"confi",
+				"confirm"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"vc-",
+				"vc-weeks"
+			],
+			[
+				"validateFiel",
+				"validateField"
+			],
+			[
+				"Ad",
+				"AddService__sidebar"
+			],
+			[
+				"round",
+				"rounded-tr-xl"
+			],
+			[
+				"tim",
+				"timeSlotsStart"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"bu",
+				"ButtonStandard"
+			],
+			[
+				"ed",
+				"editable-text"
+			],
+			[
+				"gri",
+				"grid-template-rows"
+			],
+			[
+				"sp",
+				"space-x-2"
+			],
+			[
+				"text-red",
+				"text-red-500"
+			],
+			[
+				"getBoun",
+				"getBoundingClientRect"
+			],
+			[
+				"time",
+				"timeSlots"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pace",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages list",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"es",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"esl",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"esi",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"e",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"js",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"eslin",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"prettys",
+				"Preferences: Pretty JSON Settings"
+			],
+			[
+				"preyy",
+				"Pretty JSON: Minify JSON"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lnt",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint format",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac pre",
+				"Package Control: Enable Package"
+			],
+			[
+				"prettier  ",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"prett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"package ",
+				"Package Control: Enable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"materil",
+				"Material Theme: Activate theme"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/batch3/Sites/gatsby-starter-batch"
+	],
+	"file_history":
+	[
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/service-requests/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/care-team/Map.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/clients/Map.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/user/Profile.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileCP.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/clients/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/care-team/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/CardProfileMeta.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/search/Map.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/CardProfileFull.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/listings/ListingsMap.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/CardProfileInfoWindow.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/listings/ListingsList.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/CardProfileMixin.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/CardProfile.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/service-requests/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/service-agreements/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/listings/ListingsGrid.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceAgreementsWrapper.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/state/helpers.js",
+		"/Users/batch3/Sites/frankie001-vue/src/state/modules/servicerequest.js",
+		"/Users/batch3/Sites/frankie001-vue/src/views/search/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestsWrapper.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/lists/List.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/dashboard/CardBookings.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/shared/FormElementMixin.js",
+		"/Users/batch3/Sites/frankie001-vue/src/views/profile/Profile.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/service-requests/Detail.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/page-hero/PageHero.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileHero.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileButtons.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/services/ServiceService.spec.js",
+		"/Users/batch3/Sites/frankie001-vue/src/locales/app/en.json",
+		"/Users/batch3/Sites/frankie001-vue/src/components/listings/ListingsSort.vue",
+		"/Users/batch3/Sites/frankie001/api/app/ServiceRequests/ServiceRequest.php",
+		"/Users/batch3/Sites/frankie001/api/app/ServiceRequests/Actions/GetServiceRequests.php",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/Profile.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileMeta.vue",
+		"/Users/batch3/_sublime_projects/frankie001.sublime-project",
+		"/Users/batch3/Sites/frankie001-vue/src/locales/profile/en.json",
+		"/Users/batch3/Sites/frankie001-vue/src/views/team/service-agreements/Detail.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/service-agreements/Detail.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/service-requests/Detail.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/user/NavSidebar.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/chat/ChatMessages.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/router/routes.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/layout/nav-topbar/NavTopbarItems.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/layout/nav-topbar/NavTopbarUserDropdown.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/user/Settings.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/untitled",
+		"/Users/batch3/Desktop/https:::ppp.tokyo.jp:js:app.js?v=1601840737",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/actions/CardProfileActionsContact.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileBadges.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileServices.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileExperience.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileRates.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileTransport.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileInsurance.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestViewCP.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/profile/ProfileAvatar.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/modals/ModalEditRates.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestView.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service-list/ServiceList.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/entities/CareProfessionals/CareProfessionalProfile.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestHero.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestMeetAndGreet.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/profile/actions/CardProfileActions.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/views/clients/service-agreements/Index.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/state/modules/auth.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/Bookings.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/entities/Clients/Client.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/modals/ModalBookingDates.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/modals/ModalBookingDatesItem.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service-list/ServiceListItem.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service-list/ServiceListItemMeta.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/utils/FormatCurrency.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/onboarding/availability-and-rates/RatesSectionTable.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service-list/ServiceListItemActions.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestDetails.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestInfo.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/actions/ActionsMeetingBooked.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestHead.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service-list/ServiceListTotal.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetail.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/ModalBookingDates.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/onboarding/OnboardingForm.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/onboarding/background-checks/BackgroundChecksForm.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/ServiceRequestsHeader.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/cards/CardMeetAndGreet.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/filter-buttons/FilterButtons.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/search/filter/FilterButtons.vue",
+		"/Users/batch3/Sites/frankie001/node_modules/color-convert/route.js",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/labels/LabelState.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/locales/requests/en.json",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/lists/ListInline.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/layout/nav-sidebar/NavSidebarItem.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/team/NavSidebar.vue",
+		"/Users/batch3/Sites/frankie001/api/.env",
+		"/Users/batch3/Sites/frankie001-vue/.env.local",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetailWrapper.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/locales/bookings/en.json",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsReport.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/ModalObservationReport.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/StepFive.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/StepFour.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/StepOne.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/StepThree.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/observation-report/StepTwo.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/modals/ModalBookingDetails.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/modals/settings/ModalSettings.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetailProfile.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetailService.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetailMeta.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsDetailCareTeamItem.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/utils/FormatDate.js",
+		"/Users/batch3/Sites/frankie001-vue/src/assets/json/bookings.json",
+		"/Users/batch3/Sites/frankie001-vue/src/assets/json/report.json",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/modals/gallery/ModalGallery.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/service-requests/service/ServiceSelect.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/ui/modals/modal.css",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsCalendar.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/assets/styles/app.css",
+		"/Users/batch3/Sites/frankie001-vue/src/components/layout/notifications-sidebar/NotificationsSidebar.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/layout/notifications-sidebar/notifications/NotificationBooking.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/dashboard/CardBooking.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsListItem.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/components/bookings/BookingsList.vue",
+		"/Users/batch3/Sites/frankie001-vue/src/layouts/Main.vue"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 415.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 164.0
+	},
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "",
+	"project": "gatsby-starter-batch.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cardp",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"profileCp",
+				"src/components/profile/ProfileCP.vue"
+			],
+			[
+				"cardprof",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"cardProfileIn",
+				"src/components/ui/cards/profile/CardProfileInfoWindow.vue"
+			],
+			[
+				"listingsM",
+				"src/components/listings/ListingsMap.vue"
+			],
+			[
+				"profile mi",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"cardpor",
+				"src/components/ui/cards/profile/CardProfile.vue"
+			],
+			[
+				"card profile",
+				"src/components/ui/cards/profile/CardProfileFull.vue"
+			],
+			[
+				"listing",
+				"src/components/listings/ListingsGrid.vue"
+			],
+			[
+				"listingList",
+				"src/components/listings/ListingsList.vue"
+			],
+			[
+				"helper",
+				"src/state/helpers.js"
+			],
+			[
+				"card profil",
+				"src/components/ui/cards/profile/CardProfile.vue"
+			],
+			[
+				"search ind",
+				"src/views/search/Index.vue"
+			],
+			[
+				"care team",
+				"src/views/team/care-team/Index.vue"
+			],
+			[
+				"team in",
+				"src/views/team/service-requests/Index.vue"
+			],
+			[
+				"profie mis",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"card profile mini",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"cardProfi",
+				"src/components/ui/cards/profile/CardProfile.vue"
+			],
+			[
+				"service",
+				"src/components/service-requests/ServiceRequestsWrapper.vue"
+			],
+			[
+				"card pro",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"cardPro",
+				"src/components/ui/cards/profile/CardProfile.vue"
+			],
+			[
+				"lis",
+				"src/components/ui/lists/List.vue"
+			],
+			[
+				"form ele",
+				"src/components/ui/shared/FormElementMixin.js"
+			],
+			[
+				"list",
+				"src/components/ui/lists/List.vue"
+			],
+			[
+				"profile",
+				"src/views/profile/Profile.vue"
+			],
+			[
+				"card pr",
+				"src/components/ui/cards/profile/CardProfile.vue"
+			],
+			[
+				"card pro m",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"profile butt",
+				"src/components/profile/ProfileButtons.vue"
+			],
+			[
+				"pageher",
+				"src/components/ui/page-hero/PageHero.vue"
+			],
+			[
+				"profile hero",
+				"src/components/profile/ProfileHero.vue"
+			],
+			[
+				"profilecp",
+				"src/components/profile/ProfileCP.vue"
+			],
+			[
+				"locales app",
+				"src/locales/app/en.json"
+			],
+			[
+				"locales pro",
+				"src/locales/profile/en.json"
+			],
+			[
+				"profile met",
+				"src/components/profile/ProfileMeta.vue"
+			],
+			[
+				"rout",
+				"src/router/routes.js"
+			],
+			[
+				"rou",
+				"src/router/routes.js"
+			],
+			[
+				"profileBu",
+				"src/components/profile/ProfileButtons.vue"
+			],
+			[
+				"listings ",
+				"src/components/listings/ListingsGrid.vue"
+			],
+			[
+				"card actions",
+				"src/components/ui/cards/profile/actions/CardProfileActionsContact.vue"
+			],
+			[
+				"profile rate",
+				"src/components/profile/ProfileRates.vue"
+			],
+			[
+				"profile tran",
+				"src/components/profile/ProfileTransport.vue"
+			],
+			[
+				"locales profile",
+				"src/locales/profile/en.json"
+			],
+			[
+				"profileTra",
+				"src/components/profile/ProfileTransport.vue"
+			],
+			[
+				"profile ex",
+				"src/components/profile/ProfileExperience.vue"
+			],
+			[
+				"profiles",
+				"src/components/profile/ProfileServices.vue"
+			],
+			[
+				"profile meta",
+				"src/components/profile/ProfileMeta.vue"
+			],
+			[
+				"peofileb",
+				"src/components/profile/ProfileBadges.vue"
+			],
+			[
+				"profile exp",
+				"src/components/profile/ProfileExperience.vue"
+			],
+			[
+				"profile vu",
+				"src/components/profile/Profile.vue"
+			],
+			[
+				"router",
+				"src/router/routes.js"
+			],
+			[
+				"profile badges",
+				"src/components/profile/ProfileBadges.vue"
+			],
+			[
+				"profilehero",
+				"src/components/profile/ProfileHero.vue"
+			],
+			[
+				"profile /pr",
+				"src/components/profile/Profile.vue"
+			],
+			[
+				"cardpro",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"care pro ",
+				"src/entities/CareProfessionals/CareProfessionalProfile.js"
+			],
+			[
+				"modal ei",
+				"src/components/service-requests/modals/ModalEditRates.vue"
+			],
+			[
+				"servive re",
+				"src/components/service-requests/ServiceRequestView.vue"
+			],
+			[
+				"Profile",
+				"src/components/profile/Profile.vue"
+			],
+			[
+				"service re her",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"service hero",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"ServiceRequestMeetAndGreet",
+				"src/components/service-requests/ServiceRequestMeetAndGreet.vue"
+			],
+			[
+				"card prof",
+				"src/components/ui/cards/profile/CardProfileFull.vue"
+			],
+			[
+				"card profile met",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"profileMt",
+				"src/components/profile/ProfileMeta.vue"
+			],
+			[
+				"service list meta",
+				"src/components/service-requests/service-list/ServiceListItemMeta.vue"
+			],
+			[
+				"servicelistac",
+				"src/components/service-requests/service-list/ServiceListItemActions.vue"
+			],
+			[
+				"request det",
+				"src/components/service-requests/ServiceRequestDetails.vue"
+			],
+			[
+				"request meet",
+				"src/components/service-requests/ServiceRequestMeetAndGreet.vue"
+			],
+			[
+				"service meeting",
+				"src/components/service-requests/actions/ActionsMeetingBooked.vue"
+			],
+			[
+				"hero",
+				"src/components/ui/page-hero/PageHero.vue"
+			],
+			[
+				"service info",
+				"src/components/service-requests/ServiceRequestInfo.vue"
+			],
+			[
+				"service her",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"serviceReq he",
+				"src/components/service-requests/ServiceRequestHead.vue"
+			],
+			[
+				"modules ser",
+				"src/state/modules/servicerequest.js"
+			],
+			[
+				"he",
+				"src/state/helpers.js"
+			],
+			[
+				"helpr",
+				"src/state/helpers.js"
+			],
+			[
+				"ser",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"service request her",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"serviceRequestVi",
+				"src/components/service-requests/ServiceRequestView.vue"
+			],
+			[
+				"auth",
+				"src/state/modules/auth.js"
+			],
+			[
+				"helpers",
+				"src/state/helpers.js"
+			],
+			[
+				"modules/auth",
+				"src/state/modules/auth.js"
+			],
+			[
+				"module servi",
+				"src/state/modules/servicerequest.js"
+			],
+			[
+				"servi her",
+				"src/components/service-requests/ServiceRequestHero.vue"
+			],
+			[
+				"servicelisttot",
+				"src/components/service-requests/service-list/ServiceListTotal.vue"
+			],
+			[
+				"modal boo",
+				"src/components/bookings/modals/ModalBookingDates.vue"
+			],
+			[
+				"modal bo",
+				"src/components/bookings/modals/ModalBookingDates.vue"
+			],
+			[
+				"servicerequestin",
+				"src/components/service-requests/ServiceRequestInfo.vue"
+			],
+			[
+				"servicerequesthead",
+				"src/components/service-requests/ServiceRequestHead.vue"
+			],
+			[
+				"servicerew",
+				"src/components/service-requests/ServiceRequestView.vue"
+			],
+			[
+				"seri",
+				"src/components/service-requests/ServiceRequestInfo.vue"
+			],
+			[
+				"onboardform",
+				"src/components/onboarding/OnboardingForm.vue"
+			],
+			[
+				"cardpforilem",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"card meta",
+				"src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"profilemet",
+				"src/components/profile/ProfileMeta.vue"
+			],
+			[
+				"filterbu",
+				"src/components/ui/filter-buttons/FilterButtons.vue"
+			],
+			[
+				"filter bu",
+				"src/components/search/filter/FilterButtons.vue"
+			],
+			[
+				"servivce request head",
+				"src/components/service-requests/ServiceRequestsHeader.vue"
+			],
+			[
+				"route",
+				"frankie001/node_modules/color-convert/route.js"
+			],
+			[
+				"listing grid",
+				"frankie001-vue/src/components/listings/ListingsGrid.vue"
+			],
+			[
+				"profilecard",
+				"frankie001-vue/src/components/ui/cards/profile/CardProfileMeta.vue"
+			],
+			[
+				"locales app json",
+				"frankie001-vue/src/locales/app/en.json"
+			],
+			[
+				"label",
+				"src/components/ui/labels/LabelState.vue"
+			],
+			[
+				"app ",
+				"src/locales/app/en.json"
+			],
+			[
+				"locales re",
+				"src/locales/requests/en.json"
+			],
+			[
+				"cardMixin",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"listine",
+				"src/components/ui/lists/ListInline.vue"
+			],
+			[
+				"moudle secv",
+				"src/state/modules/servicerequest.js"
+			],
+			[
+				"cardprofilemix",
+				"src/components/ui/cards/profile/CardProfileMixin.js"
+			],
+			[
+				"navsidebaritem",
+				"src/components/layout/nav-sidebar/NavSidebarItem.vue"
+			],
+			[
+				"locales ap",
+				"src/locales/app/en.json"
+			],
+			[
+				"locales book",
+				"src/locales/bookings/en.json"
+			],
+			[
+				"modal setting",
+				"src/components/ui/modals/settings/ModalSettings.vue"
+			],
+			[
+				"bookingsdetailcare",
+				"src/components/bookings/BookingsDetailCareTeamItem.vue"
+			],
+			[
+				"bookings det",
+				"src/components/bookings/BookingsDetail.vue"
+			],
+			[
+				"booking detail serive",
+				"src/components/bookings/BookingsDetailService.vue"
+			],
+			[
+				"moda",
+				"src/components/ui/modals/modal.css"
+			],
+			[
+				"modal",
+				"src/components/ui/modals/modal.css"
+			],
+			[
+				"app.css",
+				"src/assets/styles/app.css"
+			],
+			[
+				"dashboard book",
+				"src/components/dashboard/CardBooking.vue"
+			],
+			[
+				"notif",
+				"src/components/layout/notifications-sidebar/notifications/NotificationBooking.vue"
+			],
+			[
+				"noti",
+				"src/components/layout/notifications-sidebar/NotificationsSidebar.vue"
+			],
+			[
+				"modalse",
+				"src/components/ui/modals/settings/ModalSettings.vue"
+			],
+			[
+				"button",
+				"src/components/ui/buttons/ButtonStandard.vue"
+			],
+			[
+				"main",
+				"src/layouts/Main.vue"
+			],
+			[
+				"routes",
+				"src/router/routes.js"
+			],
+			[
+				"bookingsdet",
+				"src/components/bookings/BookingsDetailWrapper.vue"
+			],
+			[
+				"locale book",
+				"src/locales/bookings/en.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 440.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$emit('input', $event.target.value)"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
