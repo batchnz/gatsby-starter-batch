@@ -18,7 +18,6 @@
 // - OTHER
 // -- add site config folder and site.js file to store meta
 // -- basic svg circle favicon
-// -- use .jsx files
 // -- add default folder structure
 // -- check with team about folder and filename preferences (kabab-case folders)
 // -- index.js
@@ -33,7 +32,6 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-import "./layout.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
