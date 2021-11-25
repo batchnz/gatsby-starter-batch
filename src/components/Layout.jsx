@@ -17,8 +17,6 @@
 // -- improve conditionals/fallbacks for seo component
 // - OTHER
 // -- add site config folder and site.js file to store meta
-// -- add default folder structure
-// -- check with team about folder and filename preferences (kabab-case folders)
 // -- .env files
 // -- compontent resolvers
 
