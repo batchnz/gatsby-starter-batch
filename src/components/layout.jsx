@@ -17,13 +17,10 @@
 // -- improve conditionals/fallbacks for seo component
 // - OTHER
 // -- add site config folder and site.js file to store meta
-// -- basic svg circle favicon
 // -- add default folder structure
 // -- check with team about folder and filename preferences (kabab-case folders)
 // -- .env files
 // -- compontent resolvers
-// -- gatsby 4 (check if working with craft source)
-// -- node version file
 
 import * as React from "react"
 import PropTypes from "prop-types"
